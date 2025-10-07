@@ -20,9 +20,20 @@
 
 </div>
 
+<div align="center">
+  
+![Sumeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sumeetworkspace&theme=react-dark)
+
+</div>
 
 <div align="center">
   
 ![snake gif](https://github.com/sumeetworkspace/sumeetworkspace/blob/output/github-snake-dark.svg)
+
+</div>
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=sumeetworkspace&color=blue)
 
 </div>
