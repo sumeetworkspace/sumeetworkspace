@@ -1,9 +1,9 @@
 
-<div align="center">
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7EF&width=435&lines=Hi+I'm+Sumeet+Jadhav+😎;Full+Stack+Java+Developer+💻;Frontend+with+React+✨)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7EF&width=435&lines=Hi+I'm+Sumeet+Jadhav+😎;Full+Stack+Java+Developer+💻;Frontend+with+React+✨" alt="Typing SVG">
+  </a>
+</p>
 
 <div align="center">
 
